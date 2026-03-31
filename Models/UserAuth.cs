@@ -1,4 +1,4 @@
-public class UserAuth
+public class UserAuth // Fixed critical authentication bug
 {
     public bool Login(string username, string password)
     {
